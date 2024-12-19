@@ -26,7 +26,7 @@ This dashboard is designed to track **revenue**, **profit**, and **quantity sold
 - **Sum of Quantity by Model** and **Revenue by City**.
 - **Sales performance** analysis by different metrics.
 
-[Sales-Dashboard]
+[](https://github.com/Nkanyisogwane/PowerBI-Guided-Projects/tree/main/Sales-Dashboard)
 
 ---
 
@@ -38,7 +38,7 @@ This dashboard tracks key logistics metrics such as **orders**, **revenue**, and
 - **Orders by Carrier** and **Count of Orders by Origin City**.
 - **Dynamic Filtering** by region and carrier type.
 
-[Link to Project Files]
+[](https://github.com/Nkanyisogwane/PowerBI-Guided-Projects/tree/main/Logistics-Dashboard)
 
 ---
 
