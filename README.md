@@ -146,13 +146,8 @@ Feel free to reach out if you have any questions or feedback:
 
 ---
 
-### **How to Add Images to README**  
-To embed screenshots of your dashboards, use Markdown syntax:
-```markdown
-![Sales Dashboard](path/to/screenshot.png)
-
----
-
 ### Conclusion
-This repository is a representation of my work in Power BI. It demonstrates my ability to create dynamic dashboards, apply DAX calculations, and deliver insights through data visualization. Please feel free to explore the projects and reach out if you have any feedback or questions.
+
+This repository is a representation of my work in **Power BI**. It demonstrates my ability to create **dynamic dashboards**, apply **DAX calculations**, and deliver insights through **data visualization**. Please feel free to explore the projects and reach out if you have any feedback or questions.
+
 
