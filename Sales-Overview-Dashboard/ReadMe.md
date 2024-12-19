@@ -10,6 +10,8 @@ The **Sales Overview Dashboard** tracks **Sales**, **Profit**, and **Quantity** 
 - **KPI comparison** between **CY** and **PY** for sales and profit.
 - **Geographic visualization** of **sales by state** in the United States.
 
+![Sales Overview dashboard image](https://github.com/Nkanyisogwane/PowerBI-Guided-Projects/blob/main/Sales-Overview-Dashboard/sales-overview%20image.png?raw=true)
+
 ## Skills Used  
 - **DAX**: Calculated **YoY growth**, **profit margins**, and other key performance indicators (KPIs).
 - **Power Query**: Data transformation to clean and organize the dataset.
