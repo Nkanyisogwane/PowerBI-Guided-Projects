@@ -9,6 +9,8 @@ The **HR Analytics Dashboard** analyzes **employee data** to track **attrition r
 - **Attrition rate analysis** by **gender**, **age group**, and **education field**.
 - **Bar charts** and **pie charts** for easy analysis of employee trends.
 
+![HR Analytics dashboard image](https://raw.githubusercontent.com/Nkanyisogwane/PowerBI-Guided-Projects/refs/heads/main/HR-Analytics-Dashboard/Screenshot%202024-12-05%20163534.png)
+
 ## Skills Used  
 - **DAX**: Created measures for **attrition rate** and **employee satisfaction** based on employee data.
 - **Power Query**: Cleaned and merged employee datasets for easy analysis.
