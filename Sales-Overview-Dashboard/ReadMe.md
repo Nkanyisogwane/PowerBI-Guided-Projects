@@ -1,4 +1,4 @@
-### . Sales Overview Dashboard**
+### Sales Overview Dashboard
 
 
 # Sales Overview Dashboard
