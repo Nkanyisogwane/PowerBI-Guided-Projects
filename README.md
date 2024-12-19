@@ -26,7 +26,7 @@ This dashboard is designed to track **revenue**, **profit**, and **quantity sold
 - **Sum of Quantity by Model** and **Revenue by City**.
 - **Sales performance** analysis by different metrics.
 
-[Link to Project Files]
+[Sales-Dashboard]
 
 ---
 
