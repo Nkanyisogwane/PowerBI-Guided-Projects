@@ -9,6 +9,8 @@ The **Ecommerce Sales Dashboard** focuses on **Year-to-Date (YTD) Sales**, **Pro
 - **Top and Bottom 5 products by sales**.
 - **Trend analysis** of **YoY sales growth**.
 
+![Ecommerce dashboard image](https://github.com/Nkanyisogwane/PowerBI-Guided-Projects/blob/main/eCommerce-Dashboard/ECommerce%20image.png?raw=true)
+
 ## Skills Used  
 - **DAX**: Used DAX to create **YoY sales growth** and **profit margin** calculations.
 - **Data Modeling**: Managed relationships between **sales data** and **product categories**.
