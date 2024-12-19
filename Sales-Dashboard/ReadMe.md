@@ -22,6 +22,6 @@ This project involved creating a **Sales Dashboard** to track **Revenue**, **Pro
 
 ## How to Use  
 1. Clone or download this repository.
-2. Open the `.pbix` file in Power BI Desktop.
+2. Open the `Sales-Dashboard/Sales Dashboard.pbix` file in Power BI Desktop.
 3. Use the slicers to filter by **country**, **region**, **model**, or **brand** to explore sales performance.
 
