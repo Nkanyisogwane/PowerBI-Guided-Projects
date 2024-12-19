@@ -13,6 +13,9 @@ The **Car Sales Dashboard** provides insights into **car sales performance**, in
 - **Data Modeling**: Managed relationships between **sales data**, **dealer regions**, and **car models**.
 - **Power Query**: Transformed data to get meaningful insights for sales analysis.
 
+![dashboard image](https://raw.githubusercontent.com/Nkanyisogwane/PowerBI-Guided-Projects/refs/heads/main/Car-Sales-Dashboard/Screenshot%202024-12-13%20125505.png)
+![dashboard image](https://raw.githubusercontent.com/Nkanyisogwane/PowerBI-Guided-Projects/refs/heads/main/Car-Sales-Dashboard/Screenshot%202024-12-13%20125521.png)
+
 ## Challenges & Insights  
 - **Weekly trend analysis** required me to refine my DAX skills to properly analyze time-based data.
 - The project improved my ability to work with **multiple dimensions** such as **car model**, **dealer region**, and **sales color** for more detailed analysis.
