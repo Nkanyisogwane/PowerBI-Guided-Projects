@@ -50,7 +50,7 @@ The **Sales Overview Dashboard** provides a snapshot of sales performance across
 - **Monthly Sales Trend** with visual KPIs.
 - **Bar chart with sparkline** for monthly performance.
 
-[Link to Project Files]
+[(https://github.com/Nkanyisogwane/PowerBI-Guided-Projects/tree/main/Sales-Overview-Dashboard)]
 
 ---
 
@@ -62,7 +62,7 @@ The **HR Analytics Dashboard** focuses on analyzing **employee data**, including
 - **Job satisfaction rating** across various roles and age groups.
 - **Detailed breakdown** of attrition rates by gender and education field.
 
-[Link to Project Files]
+[(https://github.com/Nkanyisogwane/PowerBI-Guided-Projects/tree/main/HR-Analytics-Dashboard)]
 
 ---
 
@@ -74,7 +74,7 @@ This dashboard tracks **road accident** data, providing insights into **casualti
 - **Casualties by Vehicle Type** and **Road Type**.
 - **Monthly trend comparison** of casualties between current and previous years.
 
-[Link to Project Files]
+[(https://github.com/Nkanyisogwane/PowerBI-Guided-Projects/tree/main/Road-Accident-Dashboard)]
 
 ---
 
@@ -86,7 +86,7 @@ The **Ecommerce Sales Dashboard** analyzes **year-to-date (YTD)** sales, **profi
 - **Top and Bottom Products by YTD Sales**.
 - **Sales by Region** and **Category** breakdown.
 
-[Link to Project Files]
+[(https://github.com/Nkanyisogwane/PowerBI-Guided-Projects/tree/main/eCommerce-Dashboard)]
 
 ---
 
@@ -98,7 +98,7 @@ This dashboard provides a detailed overview of **car sales**, including **weekly
 - **Sales by Body Style** and **Total Sales by Color**.
 - **Detailed grid of individual car sales** by dealer region and model.
 
-[Link to Project Files]
+[(https://github.com/Nkanyisogwane/PowerBI-Guided-Projects/tree/main/Car-Sales-Dashboard)]
 
 ---
 
