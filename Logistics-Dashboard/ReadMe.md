@@ -11,6 +11,8 @@ The **Logistics Dashboard** focuses on tracking key logistics metrics such as **
 - **Revenue and Volume** analysis by region and client.
 - **Map visualization** to show the **count of orders** by city and country.
 
+![Logistics dashboard image](https://raw.githubusercontent.com/Nkanyisogwane/PowerBI-Guided-Projects/refs/heads/main/Logistics-Dashboard/Logistics%20image.png)
+
 ## Skills Used  
 - **Data Modeling**: Created relationships between different datasets to link order statuses with clients.
 - **DAX**: Used DAX to create dynamic measures and KPIs like **On-time orders**, **Revenue growth**, and **Volume by carrier**.
