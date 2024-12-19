@@ -9,6 +9,8 @@ The **Road Accident Analysis Dashboard** tracks **total casualties**, **accident
 - **Casualties by road type** and **light condition**.
 - **Map visualization** showing **casualties by location**.
 
+![Road Accident dashboard image](https://raw.githubusercontent.com/Nkanyisogwane/PowerBI-Guided-Projects/refs/heads/main/Road-Accident-Dashboard/RAF%20image.png)
+
 ## Skills Used  
 - **DAX**: Used DAX to calculate the **YoY growth** in casualties and accidents.
 - **Data Modeling**: Created relationships between **vehicle types** and **road conditions**.
