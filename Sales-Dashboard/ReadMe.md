@@ -10,6 +10,8 @@ This project involved creating a **Sales Dashboard** to track **Revenue**, **Pro
 - **Dynamic filtering** by region, model, and country.
 - **KPIs and Sparklines** to show trends in **Revenue**, **Profit**, and **Quantity**.
 
+![Sales dashboard image](https://github.com/Nkanyisogwane/PowerBI-Guided-Projects/blob/main/Sales-Dashboard/Sales%20image.png?raw=true)
+
 ## Skills Used  
 - **Data Modeling**: Worked with relationships between multiple tables to present dynamic data.
 - **DAX**: Used DAX to calculate **Year-over-Year growth** and **Profit Margins**.
